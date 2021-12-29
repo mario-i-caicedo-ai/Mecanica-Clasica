@@ -8,7 +8,7 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 [Mecánica Clásica I](MC-1/Mec_1.md) 
 
 
-[Mecánica Clásica II](MC-2/Mec_2.md)
+[Mecánica Clásica II](MEC-2/Mec_2.md)
    
 
 ## Bibliografía para el curso
