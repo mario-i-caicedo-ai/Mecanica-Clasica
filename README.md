@@ -5,20 +5,8 @@
 Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de inte[Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) rés para tales temas.
 
 
-[Mecánica Clásica I](MC-1/Mec_1.md) 
-### Algunos temas del Curso
-
-* Oscilaciones Linealesn
-* Osciladores acoplados
- * Límite del contínuo y ecuación de ondas
-* La ecuación de ondas
-  * Línea de Transmisión, ecuaciones telegráficas y aproximación de cero pérdida
-  * Cuerda Vibrante
-  * Ondas en Tres dimensiones
-   * Ondas electromagnéticas
-* Energía y su propagación. Vector de Poynting
-* Interferencia y Difracción
-* Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat    
+[Mecánica Clásica I](MC-1/Mec_1.md) Mec_1.md
+   
 
 ## Bibliografía para el curso
 
