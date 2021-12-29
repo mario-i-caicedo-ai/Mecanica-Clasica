@@ -2,8 +2,10 @@
 
 ## Descripción
 
-Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
+Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de inte[Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) rés para tales temas.
 
+
+[Mecánica Clásica I](cuadernos/Onda_Viajera_1D.ipynb) 
 ### Algunos temas del Curso
 
 * Oscilaciones Linealesn
