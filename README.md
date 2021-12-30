@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="300" title="hover text">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Playa_Colorada_Parque_Nacional_Mochima.jpg" width="440" title="hover text">
+  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="340" title="hover text">
+  <img src="Pics/2560px-Playa_Colorada_Parque_Nacional_Mochima.jpg" width="445" title="hover text">
 </p>
 
 # Mecánica Clásica
@@ -38,8 +38,8 @@ ISBN	0393099709, 9780393099706
 ISBN	0201657023, 9780201657029.
 2. Lev Davydovich Landau by L. D. Landau and E. M. Lifshitz, **Mechanics: Volume 1 of Course of theoretical physics**, 
 Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969.
-3. José, Jorge V. and Saletan, Eugene J., **Classical Dynamics. A contemporary approach**. Cambridge University Press, 1998
-4. L. A. Pars, Leopold Alexander Pars, **A Treatise on Analytical Dynamics**, Heinemann, 1965. ISBN	0435526901, 9780435526900.
+3. L. A. Pars, Leopold Alexander Pars, **A Treatise on Analytical Dynamics**, Heinemann, 1965. ISBN	0435526901, 9780435526900.
+4. Vladimir Igorevich Arnolʹd, **Mathematical Methods of Classical Mechanics**, Volume 60 of Graduate texts in mathematics, Springer, 1989. ISBN	3540968903, 9783540968900
 
 
 
