@@ -37,7 +37,7 @@ Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969.
 
 
 <p align="center">
-  <img src="https://es.wikipedia.org/wiki/Archipi%C3%A9lago_Los_Roques#/media/Archivo:Gran_roque.jpg" width="350" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Gran_roque.jpg" width="350" title="hover text">
 </p>
 
 
