@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="350" title="hover text">
+  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="340" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Gran_Roque_from_plane.jpg" width="430" title="hover text">
 </p>
 
