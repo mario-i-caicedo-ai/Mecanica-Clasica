@@ -5,7 +5,7 @@
 Este curso de mecánica es de nivel intermedio/avanzado y se dicta como una cadena de dos cursos de un 
 período académico (trimeste) cada uno.
 
-Se espera que el estudiante que toma este curso conozca el material de un curso al nivel del texto de mecánica del curao de Berkeley o del libro de French de mencánica newoniana. 
+Se espera que el estudiante que toma este curso conozca el material de un curso al nivel del texto de mecánica del curao de Berkeley o del libro de French de mecánica newtoniana. 
 
 Al final de los dos cursos, el estudiant conocerá las formulaciones Lagraniana y Hamiltoniana (ó canónica) de la mecánica clásica. 
 La formulación Hamiltonianan es un prerequisito esencial para la formulación de la Mecánica Cuántica.
@@ -15,7 +15,11 @@ La formulación Hamiltonianan es un prerequisito esencial para la formulación d
 
 
 ### [Mecánica Clásica II](MC_2/Mec_2.md)
-   
+
+## Bibliografía previa
+
+1. C. Kittel, W. D. Knight, and M. A. Ruderman, **Berkeley Physics Course: Mechanics**, McGraw-Hill, 1965. ISBN	0070048800, 9780070048805.
+2. Anthony Philip French, **Newtonian Mechanics**. 
 
 ## Bibliografía para el curso
 
