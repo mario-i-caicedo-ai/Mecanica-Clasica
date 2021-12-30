@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Gran_roque.jpg" width="450" title="hover text">
+</p>
+
 # Mecánica Clásica
 
 ## Descripción
@@ -9,9 +13,7 @@ Se espera que el estudiante que toma este curso conozca el material de un curso 
 
 Al final de los dos cursos, el estudiante conocerá las formulaciones Lagraniana y Hamiltoniana (ó canónica) de la mecánica clásica. 
 La formulación Hamiltonianan es un prerequisito esencial para la formulación de la Mecánica Cuántica.
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Gran_roque.jpg" width="450" title="hover text">
-</p>
+
 
 ### [Mecánica Clásica I](MC-1/Mec_1.md) 
 
