@@ -6,3 +6,9 @@ El contenido de este curso pude dividirse en dos partes, una dedicada a la diná
 
 
 ### [Programa del Curso](Notas/FS-4212_MECANICA_CLASICA_II.pdf)
+
+
+
+## Exámenes de años anteriores
+
+
