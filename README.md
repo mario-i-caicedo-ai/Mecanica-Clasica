@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="250" title="hover text">
+  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="550" title="hover text">
 </p>
 
 # Mecánica Clásica
