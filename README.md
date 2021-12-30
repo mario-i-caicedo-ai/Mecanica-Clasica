@@ -5,7 +5,7 @@
 Este curso de mecánica es de nivel intermedio/avanzado y se dicta como una cadena de dos cursos de un 
 período académico (trimeste) cada uno.
 
-Se espera que el estudiante que toma este curso conozca el material de un curso al nivel del texto de mecánica del curao de Berkeley o del libro de French de mecánica newtoniana. 
+Se espera que el estudiante que toma este curso conozca el material de un curso al nivel del texto de mecánica del curso de [Berkeley](https://en.wikipedia.org/wiki/Berkeley_Physics_Course) o del libro de French de mecánica newtoniana. 
 
 Al final de los dos cursos, el estudiante conocerá las formulaciones Lagraniana y Hamiltoniana (ó canónica) de la mecánica clásica. 
 La formulación Hamiltonianan es un prerequisito esencial para la formulación de la Mecánica Cuántica.
