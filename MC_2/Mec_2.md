@@ -1,4 +1,4 @@
 
 
 
-[Programa del Curso](Notas)
+[Programa del Curso](Notas/FS-4212_MECANICA_CLASICA II.pdf)
