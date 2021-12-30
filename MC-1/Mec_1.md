@@ -1,5 +1,5 @@
 
-[xx](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
+[Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
 
 ### Algunos temas del Curso
 
