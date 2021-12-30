@@ -18,3 +18,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
 
+
+## Exámenes de años anteriores
+
+[Primer Parcial](...)
