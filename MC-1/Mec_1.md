@@ -1,5 +1,8 @@
 # Mecánica Clásica I.
 
+## Descripción
+
+El contenido de este curso comienza con un recuento de la mecánica del punto material en términos de las leyes de Newton y concluye con la formulación de Lagrange a través del **principio de Hamilton**
 
 
 ## 
