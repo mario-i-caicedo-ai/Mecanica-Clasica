@@ -1,3 +1,6 @@
+
+[Programa del Curso](Notas/FS-4211 MECANICA CLASICA I (programa analitico).pdf)
+
 [Repaso de Análisis Vectorial](Notas/mates_pa_mecanica.pdf)
 
 ### Algunos temas del Curso
