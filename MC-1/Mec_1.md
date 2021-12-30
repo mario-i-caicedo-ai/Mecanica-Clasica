@@ -1,6 +1,3 @@
-
-[Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
-
 ### Algunos temas del Curso
 
 * Oscilaciones Linealesn
@@ -14,3 +11,8 @@
 * Energía y su propagación. Vector de Poynting
 * Interferencia y Difracción
 * Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat 
+
+
+
+[Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
+
