@@ -13,14 +13,16 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Bibliografía para el curso
 
-1. A. P. French. **Vibraciones y Ondas**. Editorial Reverté. 
-2. F. S., Jr. Crawford. **Ondas**. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
-3. M. Alonso, E. J. Finn. **Física, Vol II. Campos y Odas**. Fondo Educativo Latinoamericano, 1970.
+1. J. B. Marion. **Classical Dynamics of Particles and Systems**. Academic Press, 2013. ISBN	1483272818, 9781483272818 
+2. Walter Hauser. **Introduction to the Principles of Mechanics**. Addison-Wesley Publishing Company, 1965. ISBN	0201028069, 9780201028065.
 
 ## Bibliografía Avanzada
 
-1. B. A. Auld, *Acoustic fields and waves in solids*, A Wiley-Interscience publication, 1973. isbn 9785885013437
-2. M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
+1. Herbert Goldstein, Charles P. Poole, John L. Safko, *Classical Mechanics*, Addison Wesley, 2002.
+ISBN	0201657023, 9780201657029.
+2. Lev Davydovich Landau by L. D. Landau and E. M. Lifshitz, *Mechanics: Volume 1 of Course of theoretical physics*, 
+Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969
+
 
 ---------------------------------------------------------------
 
