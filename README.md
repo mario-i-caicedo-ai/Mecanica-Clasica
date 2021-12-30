@@ -19,7 +19,8 @@ La formulación Hamiltonianan es un prerequisito esencial para la formulación d
 ## Bibliografía previa
 
 1. C. Kittel, W. D. Knight, and M. A. Ruderman, **Berkeley Physics Course: Mechanics**, McGraw-Hill, 1965. ISBN	0070048800, 9780070048805.
-2. Anthony Philip French, **Newtonian Mechanics**. 
+2. Anthony Philip French, **Newtonian Mechanics**, M.I.T. introductory physics series. Publisher	W.W. Norton, 1971.
+ISBN	0393099709, 9780393099706
 
 ## Bibliografía para el curso
 
