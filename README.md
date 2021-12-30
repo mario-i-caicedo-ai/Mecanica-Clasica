@@ -2,13 +2,17 @@
 
 ## Descripción
 
-Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de inte[Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) rés para tales temas.
+Este curso de mecánica es de nivel intermedio/avanzado y se dicta como una cadena de dos cursos de un 
+período académico (trimeste) cada uno.
+
+Al final de los dos cursos, el estudiant conocerá las formulaciones Lagraniana y Hamiltoniana (ó canónica) de la mecánica clásica. 
+La formulación Hamiltonianan es un prerequisito esencial para la formulación de laMecánica Cuántica.
 
 
-[Mecánica Clásica I](MC-1/Mec_1.md) 
+# [Mecánica Clásica I](MC-1/Mec_1.md) 
 
 
-[Mecánica Clásica II](MC_2/Mec_2.md)
+# [Mecánica Clásica II](MC_2/Mec_2.md)
    
 
 ## Bibliografía para el curso
