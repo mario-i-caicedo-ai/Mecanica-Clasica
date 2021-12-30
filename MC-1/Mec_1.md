@@ -21,4 +21,6 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 ## Exámenes de años anteriores
 
-[Primer Parcial](...)
+[1er Parcial, 2021](Examenes_Viejos/FS4211_Abr_Jul2021_Parcial1.pdf). Prof. Herman Albrecht
+[2o Parcial, 2021](Examenes_Viejos/FS4211_Abr_Jul2021_Parcial2.pdf). Prof. Herman Albrecht
+[3er Parcial, 2021](Examenes_Viejos/FS4211_Abr_Jul2021_Parcial3.pdf). Prof. Herman Albrecht
