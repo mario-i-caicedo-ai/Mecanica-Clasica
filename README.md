@@ -21,8 +21,8 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 1. Herbert Goldstein, Charles P. Poole, John L. Safko, **Classical Mechanics**, Addison Wesley, 2002.
 ISBN	0201657023, 9780201657029.
 2. Lev Davydovich Landau by L. D. Landau and E. M. Lifshitz, **Mechanics: Volume 1 of Course of theoretical physics**, 
-Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969
-3. L. A. Pars, Leopold Alexander Pars, **A Treatise on Analytical Dynamics**, Heinemann, 1965. ISBN	0435526901, 9780435526900
+Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969.
+3. L. A. Pars, Leopold Alexander Pars, **A Treatise on Analytical Dynamics**, Heinemann, 1965. ISBN	0435526901, 9780435526900.
 
 
 ---------------------------------------------------------------
