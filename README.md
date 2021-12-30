@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="300" title="hover text">
+  <img src="Pics/Venezuela_-_MERIS_7_March_2003.jpg" width="350" title="hover text">
   <img src="Pics/2560px-Playa_Colorada_Parque_Nacional_Mochima.jpg" width="440" title="hover text">
 </p>
 
