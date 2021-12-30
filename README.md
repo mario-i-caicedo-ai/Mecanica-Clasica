@@ -36,26 +36,6 @@ Publisher	Butterworth-Heinemann, 1976. ISBN	0750628960, 9780750628969.
 3. L. A. Pars, Leopold Alexander Pars, **A Treatise on Analytical Dynamics**, Heinemann, 1965. ISBN	0435526901, 9780435526900.
 
 
----------------------------------------------------------------
-
-## Como crear un folder nuevo:
-
-* You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
-
-* Go to the folder inside which you want to create another folder
-Click on New file
-
-*On the text field for the file name, first write the folder name you want to create
-Then type /. This creates a folder
-
-* You can add more folders similarly
-
-* **IMPORTANT**, give the new file a name (for example, .gitkeep which is conventionally used to make Git track otherwise empty folders; it is not a Git feature though)
-
-*Finally, click Commit new file.
-
-
-
 
 
 
