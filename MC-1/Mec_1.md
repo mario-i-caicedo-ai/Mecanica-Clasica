@@ -1,3 +1,5 @@
+[Repaso de Análisis Vectorial](Notas/mates_pa_mecanica.pdf)
+
 ### Algunos temas del Curso
 
 * Oscilaciones Linealesn
