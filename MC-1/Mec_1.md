@@ -6,7 +6,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 
 
-https://user-images.githubusercontent.com/68117222/147797491-49194318-68e8-4e39-8898-3a21cf4b0bee.mp4
+
 
 
 ## 
