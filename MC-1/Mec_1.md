@@ -4,9 +4,7 @@
 
 El contenido de este curso comienza con un recuento de la mecánica del punto material en términos de las leyes de Newton y concluye con la formulación de **Lagrange**, el contenido incluye sistemas de partículas. En particular el moovimiento en un campo de fuerzas centrales y el problema de Kepler.
 
-
-
-https://user-images.githubusercontent.com/68117222/147797707-12772ec4-b495-46d6-a6b4-fd01b687ee0e.mp4
+Como parte del curso el estudiante entrará en contacto el lenguaje de programación [Python](https://www.python.org/) y algunas de sus bibliotecas con el fin de resolver algunos problemas de mecánica, con este fin haremos énfasis en trabajar con cuaernos jupyter en el ambiente [Google Colab](https://colab.research.google.com/?utm_source=scs-index) 
 
 
 
