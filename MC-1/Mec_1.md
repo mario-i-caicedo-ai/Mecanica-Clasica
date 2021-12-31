@@ -4,7 +4,11 @@
 
 El contenido de este curso comienza con un recuento de la mecánica del punto material en términos de las leyes de Newton y concluye con la formulación de **Lagrange**, el contenido incluye sistemas de partículas. En particular el moovimiento en un campo de fuerzas centrales y el problema de Kepler.
 
-[probando](pics_and_videos/pendulum.mp4)
+
+
+https://user-images.githubusercontent.com/68117222/147797707-12772ec4-b495-46d6-a6b4-fd01b687ee0e.mp4
+
+
 
 
 
