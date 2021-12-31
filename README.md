@@ -17,10 +17,12 @@ La formulación Hamiltonianan es un prerequisito esencial para la formulación d
 
 Como parte del curso el estudiante entrará en contacto el lenguaje de programación [Python](https://www.python.org/) sus bibliotecas con el fin de resolver algunos problemas de mecánica, con este fin haremos énfasis en trabajar con cuaernos jupyter en el ambiente [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
 
-### [Mecánica Clásica I](MC-1/Mec_1.md) 
+Enlaces a los dos cursos de la cadena
+
+## [Mecánica Clásica I](MC-1/Mec_1.md) 
 
 
-### [Mecánica Clásica II](MC_2/Mec_2.md)
+## [Mecánica Clásica II](MC_2/Mec_2.md)
 
 ## Bibliografía previa
 
