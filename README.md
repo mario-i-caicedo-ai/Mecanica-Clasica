@@ -24,7 +24,7 @@ Enlaces a los dos cursos de la cadena
 
 ## [Mecánica Clásica II](MC_2/Mec_2.md)
 
-## Bibliografía previa
+## Bibliografía previa [prerequisitos para este curso]
 
 1. C. Kittel, W. D. Knight, and M. A. Ruderman, **Berkeley Physics Course: Mechanics**, McGraw-Hill, 1965. ISBN	0070048800, 9780070048805.
 2. Anthony Philip French, **Newtonian Mechanics**, M.I.T. introductory physics series. Publisher	W.W. Norton, 1971.
