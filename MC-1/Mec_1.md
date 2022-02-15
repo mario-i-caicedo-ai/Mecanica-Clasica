@@ -19,6 +19,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 ## Tareas
 
 [Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
+
 [Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
 
 
