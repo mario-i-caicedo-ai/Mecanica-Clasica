@@ -13,6 +13,8 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 ## Apuntes
 
+[Notas de FS1111](Notas/Mecanica_del_Punto_Material.pdf)
+
 [Repaso de Análisis Vectorial](Notas/mates_pa_mecanica.pdf)
 
 
