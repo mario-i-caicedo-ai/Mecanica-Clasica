@@ -26,7 +26,15 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 ## [Cuadernos Jupyter]
 
-En esta sección encontrará algunas ayudas en técnicas computacionales. El lenguaje escogido es Python 3+
+En esta sección encontrará algunas ayudas en técnicas computacionales. 
+
+* Lenguaje Python 3.+..
+
+* Recurso cloud: [Google Colab](https://colab.research.google.com/)
+
+* AL hacer click en los enlaces a los cuadernos, usted obtendrá una copia suya de los códigos que se almacenará en su googledrive en un directorio llamado: **ColabNotebooks**.  
+
+[Series de Taylor](cuadernos_jupyter/Series_de_Taylor.ipynb)
 
 [Solución Numérica de Ecuaciones Diferenciales Ordinarias](cuadernos_jupyter/Sol_Num_de_EDO.ipynb)
 
