@@ -24,6 +24,12 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
 
+## [Cuadernos Jupyter]
+
+En esta sección encontrará algunas ayudas en técnicas computacionales. El lenguaje escogido es Python 3+
+
+[Solución Numérica de Ecuaciones Diferenciales Ordinarias](cuadernos_jupyter/Sol_Num_de_EDO.ipynb)
+
 
 ## Exámenes de años anteriores
 
