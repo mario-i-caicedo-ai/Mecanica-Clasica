@@ -17,7 +17,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Repaso de Análisis Vectorial](Notas/mates_pa_mecanica.pdf)
 
-[Problemas Resueltos](Notas/problemas_resueltos_MEC_1 (1).pdf) Estas notas están en desarrollo permanente. 
+[Problemas Resueltos. En desarrollo permanente.](Notas/Problemas_resueltos_MEC_1.pdf)  
 
 
 ## Tareas
