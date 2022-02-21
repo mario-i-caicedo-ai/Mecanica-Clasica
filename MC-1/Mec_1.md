@@ -26,6 +26,8 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
 
+[Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_de_Newton_I.pdf)
+
 ## [Cuadernos Jupyter]
 
 En esta sección encontrará algunas ayudas en técnicas computacionales. 
