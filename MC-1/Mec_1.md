@@ -22,13 +22,13 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 ## Tareas
 
-[Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
+[SEMANA 1. Tarea 0](Tareas/Tarea_0__Repaso_de_Analisis_Vectorial_I.pdf)
 
-[Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
+[SEMANA 2. Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
 
-[Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_de_Newton_I.pdf)
+[SEMANA 3. Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_de_Newton_I.pdf)
 
-[Tarea 3. Leyes de Newton II](Tareas/Tarea_3_Leyes_de_Newton_II.pdf)
+[SEMANA 4. Tarea 3. Leyes de Newton II](Tareas/Tarea_3_Leyes_de_Newton_II.pdf)
 
 ## [Cuadernos Jupyter]
 
