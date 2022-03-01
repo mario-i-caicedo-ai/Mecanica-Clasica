@@ -30,6 +30,23 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [SEMANA 4. Tarea 3. Leyes de Newton II](Tareas/Tarea_3_Leyes_de_Newton_II.pdf)
 
+[SEMANA 5]
+
+[SEMANA 6]
+
+[SEMANA 7]
+
+[SEMANA 8]
+
+[SEMANA 9]
+
+[SEMANA 10]
+
+[SEMANA 11]
+
+
+
+
 ## [Cuadernos Jupyter]
 
 En esta sección encontrará algunas ayudas en técnicas computacionales. 
