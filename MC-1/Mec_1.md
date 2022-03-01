@@ -28,6 +28,8 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_de_Newton_I.pdf)
 
+[Tarea 3. Leyes de Newton II](Tarea_3_Leyes_de_Newton_II.pdf)
+
 ## [Cuadernos Jupyter]
 
 En esta sección encontrará algunas ayudas en técnicas computacionales. 
