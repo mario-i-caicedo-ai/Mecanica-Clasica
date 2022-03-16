@@ -32,7 +32,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [SEMANA 5]
 
-[SEMANA 6]
+[SEMANA 6. Oscilaciones I](Tareas/Tarea_4_Oscilaciones.pdf)
 
 [SEMANA 7]
 
