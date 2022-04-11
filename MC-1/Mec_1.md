@@ -19,7 +19,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [Problemas Resueltos. En desarrollo permanente.](Notas/Problemas_resueltos_MEC_1.pdf)  
 
-[El principio de Hamilton]
+[El principio de Hamilton](Notas/Principios_Variacionales.pdf)
 
 [La acción de una partícula cargada en interacción con un campo electromagnético externo]
 
