@@ -21,7 +21,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [El principio de Hamilton](Notas/Principios_Variacionales.pdf)
 
-[La acción de una partícula cargada en interacción con un campo electromagnético externo]
+[La acción de una partícula cargada en interacción con un campo electromagnético externo](Notas/Particula_Cargada_en_Campo_Electromagnetico.pdf)
 
 
 ## Tareas
@@ -30,7 +30,7 @@ El contenido de este curso comienza con un recuento de la mecánica del punto ma
 
 [SEMANA 2. Tarea 1](Tareas/Tarea_1__Repaso_de_An_lisis_Vectorial_II.pdf)
 
-[SEMANA 3. Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_de_Newton_I.pdf)
+[SEMANA 3. Tarea 2. Leyes de Newton I](Tareas/Tarea_2_Leyes_Particula_Cargada_en_Campo_Electromagnetico.pdfde_Newton_I.pdf)
 
 [SEMANA 4. Tarea 3. Leyes de Newton II](Tareas/Tarea_3_Leyes_de_Newton_II.pdf)
 
