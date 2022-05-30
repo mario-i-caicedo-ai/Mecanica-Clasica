@@ -8,6 +8,10 @@ El contenido de este curso pude dividirse en dos partes, una dedicada a la diná
 ### [Programa del Curso](Notas/FS-4212_MECANICA_CLASICA_II.pdf)
 
 
+## Videos y notas de clase
+
+[Semana 1: Formulación Canónica](https://www.youtube.com/watch?v=ZZL25LuZrGc)
+
 
 ## Exámenes de años anteriores
 
@@ -16,6 +20,8 @@ El contenido de este curso pude dividirse en dos partes, una dedicada a la diná
 [2o Parcial, 2021](Examenes_Viejos/FS-4212-Parcial2.pdf). Prof. Herman Albrecht.
 
 [3er Parcial, 2021](Examenes_Viejos/FS-4212-Parcial3.pdf). Prof. Herman Albrecht.
+
+
 
 
 
