@@ -12,6 +12,9 @@ El contenido de este curso pude dividirse en dos partes, una dedicada a la diná
 
 [Semana 1: Formulación Canónica](https://www.youtube.com/watch?v=ZZL25LuZrGc)
 
+## Tareas
+
+[xx](Tareas/Mec_2_Tarea_1.pdf)
 
 ## Exámenes de años anteriores
 
