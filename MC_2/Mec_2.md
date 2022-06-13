@@ -14,7 +14,9 @@ El contenido de este curso pude dividirse en dos partes, una dedicada a la diná
 
 ## Tareas
 
-[xx](Tareas/Mec_2_Tarea_1.pdf)
+[Formalismo Canónico y Transfromaciones de Legendre](Tareas/Mec_2_Tarea_1.pdf)
+
+[Formalismo Canónico (cont.)](Tareas/Mec_2_Tarea_2.pdf)
 
 ## Exámenes de años anteriores
 
